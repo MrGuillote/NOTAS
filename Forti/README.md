@@ -6,7 +6,7 @@
 
 ## Completar los Cursos Gratuitos
 Debes completar los primeros cuatro cursos gratuitos disponibles en la plataforma de entrenamiento de Fortinet. Aquí están los enlaces y el orden sugerido para completarlos:
-
+## Imagen descriptiva
 ![image](https://github.com/MrGuillote/NOTAS/assets/89352244/b55b0c18-6017-47cb-9569-4ba7ca37f38d)
 
 1. **Technical Introduction in Cybersecurity**  
@@ -21,14 +21,12 @@ Debes completar los primeros cuatro cursos gratuitos disponibles en la plataform
 4. **Fortinet Certified Associate (FCA) Cybersecurity FortiGate Operator**  
    [Enlace al curso](https://training.fortinet.com/local/staticpage/view.php?page=library_fortigate-operator)
 
-## Recopilar Evidencia
-Recopila la evidencia de finalización de cada curso (certificados, capturas de pantalla, etc.).
-
-## Enviar Evidencia
-Envía la evidencia de haber completado los cursos gratuitos a Pablo Lazaro al correo 📧 plazaro@unsanisidro.edu.ar.
-
 ## Adquirir Vouchers para Cursos Avanzados
-A partir del nivel de **Certified Professional**, los cursos requieren un Voucher para acceder a los laboratorios y la certificación. Estos Vouchers previamente van a ser proporcionados por Pablo Lazaro "tomar en cuenta, este tramite es meramente personal y no hay intermedios" (Pablo L. y vos). Esto se tiene que entender ya que ningun compañero va a poder ayudarte a realizar este paso.
+Recopila la evidencia de finalización de cada curso (certificados, capturas de pantalla, etc.). Envía la evidencia de haber completado los cursos gratuitos a Pablo Lazaro al correo 📧 plazaro@unsanisidro.edu.ar.
+
+De esta manera, Pablo Lazaro puede verificar que realmente has completado todos los módulos gratuitos. Es un requisito tener todo completo para solicitar la certificación. **NI SE TE OCURRA PEDIR LA CERTIFICACIÓN SI NO TERMINASTE LOS MÓDULOS GRATUITOS. "No seas Rayito".**
+
+Los Vouchers serán proporcionados previamente por Pablo Lazaro. **Ten en cuenta que este trámite es meramente personal y no hay intermediarios** (solo Pablo L. y tú). Esto se debe entender ya que ningún compañero podrá ayudarte a realizar este paso.
 
 ## Inscripción a Cursos Avanzados
 Inscríbete en los cursos avanzados haciendo clic en "Enroll Now" en cada curso dentro de la plataforma de Fortinet:
