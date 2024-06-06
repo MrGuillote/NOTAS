@@ -7,6 +7,8 @@
 ## Completar los Cursos Gratuitos
 Debes completar los primeros cuatro cursos gratuitos disponibles en la plataforma de entrenamiento de Fortinet. Aquí están los enlaces y el orden sugerido para completarlos:
 
+![image](https://github.com/MrGuillote/NOTAS/assets/89352244/b55b0c18-6017-47cb-9569-4ba7ca37f38d)
+
 1. **Technical Introduction in Cybersecurity**  
    [Enlace al curso](https://training.fortinet.com/local/staticpage/view.php?page=library_technical-introduction-to-cybersecurity)
 
@@ -43,7 +45,6 @@ Una vez que pases los exámenes, recibirás tu certificación oficial de Fortine
 
 ## Recursos Adicionales
 - **Página Oficial de Fortinet**: [Fortinet Training Institute](https://www.fortinet.com/training/cybersecurity-professionals)
-- **Guía Visual Descriptiva**: ![Imagen Descriptiva](https://prnt.sc/NAHFGKHfZ4dq)
 
 ## Notas Importantes
 - Verifica periódicamente la página de Fortinet para cualquier actualización en los procesos de certificación.
