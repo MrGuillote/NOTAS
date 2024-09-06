@@ -81,4 +81,4 @@
 
 ---
 
-Puedes copiar este texto en cualquier editor de Markdown para guardarlo o compartirlo. ¿Hay algo más que te gustaría agregar o ajustar? 
+
